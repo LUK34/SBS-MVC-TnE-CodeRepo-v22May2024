@@ -1,0 +1,28 @@
+.button-size 
+{
+    width: 40px;
+    height: 40px;
+}
+
+.title-color
+{
+	color:red;
+	text-align:center
+}
+
+.custom-table 
+{
+    border: 1px solid black; 			/* Specify border style, width, and color */
+    margin: 0 auto; 						/* Center align table */
+ /*   background-color: cyan;		*/	 /* Background color for the table */
+}
+
+.custom-table-header 
+{
+    background-color: #FF9999;		/* Background color for table header */
+}
+
+.custom-table-body 
+{
+    background-color: #87CEEB;		/* Background color for table body */
+}
